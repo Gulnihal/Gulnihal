@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulnihal" alt="gulnihal" /></a> </p>
 
-- 🔭 I’m currently working on [React Native](https://github.com/Gulnihal/React-Native-First-Projects)
+- 🔭 I’m currently working on [Flutter]((https://github.com/Gulnihal/kozmotrust_alpha))
 
-- 🌱 I’m currently learning **React Native, ML**
+- 🌱 I’m currently learning **Flutter, NodeJS, MongoDB**
 
-- 👯 I’m looking to collaborate on [React Native](https://github.com/Gulnihal/React-Native-First-Projects)
+- 👯 I’m looking to collaborate on [Flutter]((https://github.com/Gulnihal/kozmotrust_alpha))
 
-- 🤝 I’m looking for help with [React Native](https://github.com/Gulnihal/React-Native-First-Projects)
+- 🤝 I’m looking for help with  [Flutter]((https://github.com/Gulnihal/kozmotrust_alpha))
 
-- 💬 Ask me about **Java, Python, C, Bash, Verilog**
+- 💬 Ask me about **Flutter, NodeJS, VueJS, ReactJS, Django, Java, Python, C, Bash, Verilog**
 
 - 📫 How to reach me **gulnihalgezmen@gmail.com**
 
