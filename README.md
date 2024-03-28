@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gulnihal Gezmen</h1>
-<h3 align="center">A passionate Computer Engineer to be/Sr CS Student</h3>
+<h3 align="center">A passionate Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulnihal&label=Profile%20views&color=0e75b6&style=flat" alt="gulnihal" /> </p>
 
