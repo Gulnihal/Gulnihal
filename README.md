@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Flutter]((https://github.com/Gulnihal/kozmotrust_alpha))
 
-- 🌱 I’m currently learning **Flutter, NodeJS, MongoDB**
+- 🌱 I’m currently learning **ReactJS, Django, PostgreSQL**
 
 - 💬 Ask me about **Flutter, NodeJS, VueJS, ReactJS, Django, Java, Python, C, C++**
 
@@ -37,6 +37,8 @@
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="c" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulnihal&show_icons=true&locale=en&layout=compact" alt="gulnihal" /></p>
